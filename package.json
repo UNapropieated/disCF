@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/UNapropieated/disCF/issues"
   },
-  "homepage": "https://github.com/UNapropieated/disCF#readme"
+  "homepage": "https://github.com/UNapropieated/disCF#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
 }
