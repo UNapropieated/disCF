@@ -1,0 +1,19 @@
+{
+  "name": "discf",
+  "version": "1.0.0",
+  "description": "disCF is a Discord bot which provides Codeforces info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UNapropieated/disCF.git"
+  },
+  "author": "Mokosucio, bantermoit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UNapropieated/disCF/issues"
+  },
+  "homepage": "https://github.com/UNapropieated/disCF#readme"
+}
